@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subender
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS 
+- 🌱 I’m currently learning JavaScript 
 
 
 <!---
