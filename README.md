@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **subender.io@outlook.com**
 
-- 👷 Portfolio Website **subender.io@outlook.com**
+- 👷 Portfolio Website **https://subender.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
